@@ -1,5 +1,5 @@
-.alex{
-background: black;
-  color: white;
-  text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white, 0 0 20px crimson, 0 0 35px crimson, 0 0 40px crimson, 0 0 50px crimson, 0 0 75px crimson;
+div{
+    width: 17%;
+    background-color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
 }
