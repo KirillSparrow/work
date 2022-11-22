@@ -1,5 +1,10 @@
 div{
+    color:blue;
     width: 17%;
     background-color: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: darkolivegreen;
+    background-color: blue;
 }
